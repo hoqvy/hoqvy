@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/hoqvy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://twitter.com/hoqvyyxyz">
+    <a href="https://twitter.com/hoqvyxyz">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://www.youtube.com/@hoqvy">
